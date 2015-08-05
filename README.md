@@ -9,3 +9,5 @@ To play with this repo:
 - Clone it to your machine
 - ```cd``` into the band-name-generator folder
 - Run ```npm install```
+
+see me live at https://bandnamegeneratorbyclare.herokuapp.com/
